@@ -7,6 +7,6 @@ BLOG
 Then it follows with a blog page with the following dates about when the parts were submitted.
 
 ABOUT
-There is also an about page with a little information about me and an imagin.
+There is also an about page with a little information about me and an image to enhance the features of the web page so its interesting.
 
 
